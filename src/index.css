@@ -1,0 +1,19 @@
+body{
+    box-sizing: 0;
+    padding: 0;
+    margin: 0;
+    background-color: #080f28;
+    font-family: sans-serif;
+    color: #f9f9f9;
+    overflow-x: hidden;
+}
+
+a{
+    text-decoration: none;
+    color: #f9f9f9;
+    transition: all 300ms;
+}
+
+a:hover{
+    color: #cec4c4;;
+}

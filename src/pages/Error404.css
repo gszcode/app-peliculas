@@ -1,0 +1,16 @@
+.error-titulo{
+    text-align: center;
+}
+
+.error-btn{
+    display: block;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 15px;
+    margin: auto;
+    background-color: #141a32;
+}
